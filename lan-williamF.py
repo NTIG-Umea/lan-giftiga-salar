@@ -10,6 +10,6 @@ while svar != 'lan?':
     elif svar == 'nej':
         print ('är du dum verför inte')
         print ('self destruct')
-        end
+        exit()
     else:
         print ('JA ELLER NEJ')
