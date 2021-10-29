@@ -66,6 +66,9 @@ while svar != "10":
         print("▐█▒▒▒▒▐▌▒▒▒▒█▌")
         print("▐█▒▒▒▒▐▌▒▒▒▒█▌")
         print("▐█▒▒▒▒▒▒▒▒▒▒█▌")
+    
+    else:
+        print("Skriv ett giltigt nummer")
 
 
 #    if svar == "11":
